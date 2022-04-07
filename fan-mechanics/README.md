@@ -23,8 +23,13 @@ Newest submissions are listed first.
 
 
 ## Fan Mechanics Week #33: Trial By Fire
-[Contest by Acquila, 2022 March 29](http://forum.dominionstrategy.com/index.php?topic=21157.0)
+[by Acquila, 2022 March 29](http://forum.dominionstrategy.com/index.php?topic=21157.0)
 
-> Here's an idea that I've termed burn abilities. Only playable portrait cards can have burn abilities. While a card with one is in play, its burn ability can be activated at any time for an extra effect; in exchange, the card is set aside a la Encampment (no longer 'in play', but still there to help tracking) to be trashed at Clean-up. All these rules are indicated by a below-line flame symbol.
+Design a card that uses a "burn" mechanic where you can trash a card
+in play for the listed benefit any time during your turn.
 
-[County Fairs](county-fairs)
+### [County Fairs](county-fairs)
+![](county-fairs/cf-park-n-ride.png)
+![](county-fairs/cf-ticket-booth.png)
+![](county-fairs/cf-ride-ticket.png)
+![](county-fairs/cf-state-fair.png)

@@ -19,3 +19,11 @@ Design a Liaison.
 
 ### [Peacemaking](peacemaking)
 ![](peacemaking/event-peacemaking.png)
+
+## Weekly Design Contest 145: Down the hatch!
+[by X-tra, 2022 March 5](http://forum.dominionstrategy.com/index.php?topic=21104.0)
+
+Design a card that thematically lends itself to alcohol.
+
+### [Intoxicate](intoxicate)
+![](intoxicate/action-intoxicate.png)

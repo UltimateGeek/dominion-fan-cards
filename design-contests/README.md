@@ -27,3 +27,11 @@ Design a card that thematically lends itself to alcohol.
 
 ### [Intoxicate](intoxicate)
 ![](intoxicate/action-intoxicate.png)
+
+## Weekly Design Contest #144: A one time thing
+[by NoMoreFun, 2022 February 24](http://forum.dominionstrategy.com/index.php?topic=21078.0)
+
+Design a card (shaped thing) with an effect that can only be used once per game.
+
+### [Bring out your dead](bring-out-your-dead)
+![](bring-out-your-dead/event-bring-out-your-dead.png)

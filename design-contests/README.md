@@ -35,3 +35,11 @@ Design a card (shaped thing) with an effect that can only be used once per game.
 
 ### [Bring out your dead](bring-out-your-dead)
 ![](bring-out-your-dead/event-bring-out-your-dead.png)
+
+## Weekly Design Contest #143: Can I see your ID first?
+[by faust, 2022 February 16](http://forum.dominionstrategy.com/index.php?topic=21072.0)
+
+Design a card(-shaped object) with a buying or gaining restriction.
+
+### [Magna Carta](magna-carta)
+![](magna-carta/project-magna-carta.png)

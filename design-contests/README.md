@@ -7,6 +7,12 @@ Newest submissions are listed first.
 ## Weekly Design Contest #147: Target Demographic
 Design an Ally.
 
+### [Wheel of Time](wheel-of-time)
+![](wheel-of-time/wot-bowl-of-the-windows.png)
+![](wheel-of-time/wot-saidin.png)
+![](wheel-of-time/wot-saidar.png)
+![](wheel-of-time/wot-aes-sedai.png)
+
 ### [Circle of Mages](circle-of-mages)
 ![](circle-of-mages/ally-circle-of-mages.png)
 

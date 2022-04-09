@@ -4,6 +4,15 @@ Submissions to the Dominion Strategy Forum board
 
 Newest submissions are listed first.
 
+## Fan Mechanics Week #34: Equipment
+Design new [Equipment Cards](http://forum.dominionstrategy.com/index.php?topic=20732.0)
+
+### [Singer-Songwriter](singer-songwriter)
+
+![](singer-songwriter/action-singer-songwriter.png)
+![](singer-songwriter/equipment-amplifier.png)
+
+
 ## ReAlly?
 [Never-ending thread by infangthief, 2022 March 4](http://forum.dominionstrategy.com/index.php?topic=21100.0)
 

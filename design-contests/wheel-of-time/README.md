@@ -42,3 +42,10 @@ by Commodore Chuckles, 2022 April 5
 > You may play it again.
 
 ![](wot-aes-sedai.png)
+
+## Review
+by Commodore Chuckles
+
+> Wow, points for craziness! Of course, the immediate complaint will be, "what if somebody starts off with an obviously better card?" This situation definitely seems unfair: if Player A wants Player B's card, they first need to rotate the pile to gain Saidin, then play Saidin, but that still won't actually play the card they want, so Player B gets 2 plays of a good card to Player A's 2 plays of a bad card. And then Player B can just rotate the card back before Player A can actually play it! In the long run enough other things can happen to even out the number of plays, but in Dominion, the first few turns are crucial. So while I think all the rotating wackiness could be fun once you're able to play multiple cards from the pile every turn, as it is this is horribly unbalanced. At the very least the price range of the cards should be limited, maybe to just $3 and $4, but even then some lopsided games would emerge.
+
+Not selected.

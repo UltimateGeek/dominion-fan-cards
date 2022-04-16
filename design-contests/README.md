@@ -4,6 +4,13 @@ Submissions to the Dominion Strategy Forum board
 
 Newest submissions are listed first.
 
+## Weekly Design Contest #149: The Resurrection
+Design a card or landscape that can retrieve another card (or itself) out of the Trash.
+
+### [Crucifixion](crucifixion)
+![](crucifixion/event-crucifixion.png)
+![](crucifixion/state-boulder.png)
+
 ## Weekly Design Contest #148: Expand The Kingdom
 Design something that introduces at least one additional Kingdom card into the game.
 

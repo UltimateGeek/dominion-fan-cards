@@ -28,3 +28,10 @@ by LibraryAdventurer, 2022 April 9
 > If this is on your Cabinet mat, when you play a set-aside card, double one of the following it gives you: $, Action, Buy, Card, Coffer, Favor, Villager.
 
 ![](equipment-amplifier.png)
+
+### Review
+by LibraryAdventurer
+
+> Nice theming. It probably doesn't need the +1 Favor part. I hope you have enough +actions to play your Amplifier before playing the Singer-Songwriter or else you have to save the gained card for next turn in order to get part of it doubled. Maybe Amplifier should have +1 Action. As-is, it seems like cumbersome equipment (which is also thematic I guess, considering you're lugging that Amplifier around with you). Otherwise, I like it.
+
+Not selected.

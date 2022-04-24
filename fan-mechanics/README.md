@@ -4,6 +4,13 @@ Submissions to the Dominion Strategy Forum board
 
 Newest submissions are listed first.
 
+## Fan Mechanics Week #35: Getting Sneaky
+Design a card with a [Sneak](http://forum.dominionstrategy.com/index.php?topic=21187.0)
+
+### [Marcher Lord](marcher-lord)
+
+![](marcher-lord/action-marcher-lord.png)
+
 ## Fan Mechanics Week #34: Equipment
 Design new [Equipment Cards](http://forum.dominionstrategy.com/index.php?topic=20732.0)
 

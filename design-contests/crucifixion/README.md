@@ -44,3 +44,10 @@ by 4est, 2022 April 14
 > At the start of your Buy phase, return this.
 
 ![](state-boulder.png)
+
+## Review
+by 4est
+
+> Event Salvager (wow, Salvager was a popular inspiration this week) with some trash-gaining. There's a couple of issues here. As others have pointed out, it's WAY too automatic to mill Estates here (you even get your $2 and Buy back), and Province-milling in the endgame looks broken as well. The simplest fix is to disallow trashing Victory cards, similar to Enhance which does so for the same reason. The from-trash gaining feels a little tacked on, but most of all, I don't like at all that you can trash and immediately regain the card you just trashed—pay $2, trash Province, gain Province, buy another Province is busted. The Boulder can help prevent things getting too out of hand, but really the event needs more restrictions than Boulder alone can provide.
+
+Not selected.

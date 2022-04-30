@@ -22,3 +22,8 @@ by Commodore Chuckles, 2022 April 20
 > Sneak: Each other player discards down to 3 cards in hand.
 
 ![](action-marcher-lord.png)
+
+## Review
+by Commodore Chuckles
+
+> Fun fact: My Jackpot thread had this exact same card, but with a different name. Great minds think alike, I guess. So yeah, the fact that I already came up with this idea is a good indication that I like it. The main struggle I had, and still have, with the idea is that it's difficult to balance. If there are no Villages, then you can play a maximum of two of these, and since the Sneak play decreases your hand size, then you only managed to increase your hand size by one overall. Of course, Ghost Ship is an official card that only gives you one extra card while decreasing everyone else's hands, but... it's also one of the most hated cards in the game. I guess only playtesting could tell if this idea is actually fun.

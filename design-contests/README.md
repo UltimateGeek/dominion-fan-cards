@@ -4,6 +4,13 @@ Submissions to the Dominion Strategy Forum board
 
 Newest submissions are listed first.
 
+## Weekly Design Contest #150: Half!
+Design a card or landscape that contains the word or concept of "half"
+(or its equivalent).
+
+### [Debt Relief](debt-relief)
+![](debt-relief/event-debt-relief.png)
+
 ## Weekly Design Contest #149: The Resurrection
 Design a card or landscape that can retrieve another card (or itself) out of the Trash.
 

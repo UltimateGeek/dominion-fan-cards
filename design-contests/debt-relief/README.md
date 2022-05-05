@@ -22,3 +22,10 @@ by JW, 2022 Apr 25
 > You may buy this despite having @.
 
 ![](event-debt-relief.png)
+
+## Review
+by JW
+
+> A good use of a once-per game effect. Having a one-time event be a "must buy" seems like less of an issue than it would be on a Kingdom card as long as it doesn't completely transform your deck and eliminate much of the chance from the game (see: Donate). I believe that, most of the time, "double your $" would have the same impact though there are plenty of exceptions like Ball or Horn of Plenty, which offer nice interactions. **Short list.**
+
+Awarded an Honorable mention.
